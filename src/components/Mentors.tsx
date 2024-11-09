@@ -52,14 +52,6 @@ const mentors: Mentor[] = [
 export const Mentors: React.FC = () => {
   return (
     <section className="py-20 px-6 bg-gray-50 relative overflow-hidden">
-      {/* Decorative elements */}
-      {/* <div className="absolute top-10 left-10 opacity-10">
-        <Pentagon className="w-32 h-32 text-gray-400" />
-      </div>
-      <div className="absolute bottom-10 right-10 opacity-10">
-        <Pentagon className="w-32 h-32 text-gray-400" />
-      </div> */}
-      
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl text-gray-600 mb-4">
